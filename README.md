@@ -1,5 +1,5 @@
 # Bert_text_classifier
-## Multiclass text classifier using Bert transformer.
+## Multiclass text classification using Bert transformer.
 Run `main.py` to train the model. <br />
 After successfully training the model , the weights would automatically be serialized in the same directory as main.py. <br />
 Then for inference, run ```predict.py```. <br />
